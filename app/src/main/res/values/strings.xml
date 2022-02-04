@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityTransition</string>
+    <string name="welcome">Welcome</string>
+    <string name="my_app">My App</string>
+</resources>
